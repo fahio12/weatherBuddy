@@ -8,11 +8,10 @@
     },
     "properties": {
       "name": "Miami",
-      "Tempeprature": "81 F",
+      "temperature": "81 F",
       "sky": "Clear",
-      "Humididy": "77%",
+      "humidity": "77%",
       "windspeed": "7 mph"
-
     }
   }]
 }
